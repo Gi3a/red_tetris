@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Info test next tetro 1`] = `
+<div
+  className="sc-gsnTZi goemQB"
+>
+  <div
+    className="sc-hKMtZM hzAQew"
+  >
+    <div
+      className="content"
+    >
+      <p>
+        rows : 
+        0
+      </p>
+      <p>
+        level : 
+        0
+      </p>
+      <p>
+        score : 
+        0
+      </p>
+    </div>
+  </div>
+  <div
+    className="sc-dkzDqf fvoDBN"
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="background"
+      >
+        <div
+          className="sc-eCYdqJ fSZdZA"
+          height={4}
+          width={4}
+        >
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+          <div
+            className="sc-bczRLJ gWvkxP"
+            color="0,0,0"
+            type={0}
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

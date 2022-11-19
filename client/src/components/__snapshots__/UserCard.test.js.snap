@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stage render test GameOver  1`] = `
+<div
+  className="sc-gsnTZi keqIWw"
+>
+  <div
+    className="sc-bczRLJ fFXwtk"
+  >
+    <img
+      alt="Avatar"
+      className="object-cover object-center w-full h-full"
+      src="Agoumi.png"
+    />
+  </div>
+  <h3>
+    pikala
+  </h3>
+</div>
+`;

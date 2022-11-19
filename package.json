@@ -1,14 +1,16 @@
 {
-  "name": "red-tetris",
+  "name": "red_tetris",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "scripts": {
     "client": "npm run build --prefix client",
     "server": "nodemon server/index.js",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "test": "npm test --prefix client",
+    "test:coverage": "npm run test:coverage --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm start\""
   },
-  "author": "aeddaqqa",
+  "author": "cimyan",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.9.0",

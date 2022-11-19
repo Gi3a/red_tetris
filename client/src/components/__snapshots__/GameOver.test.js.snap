@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameOver game not over 1`] = `
+<div
+  className="sc-bczRLJ cEwNYp"
+>
+  <div
+    className="sc-gsnTZi dmErLH"
+  >
+    <div
+      className="overlay-content"
+    >
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          up
+        </kbd>
+        <span>
+          piece  rotation
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          down
+        </kbd>
+        <span>
+          move  piece  down
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          left
+        </kbd>
+        <span>
+          move  piece  left
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          right
+        </kbd>
+        <span>
+          move  piece  right
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          space
+        </kbd>
+        <span>
+          hard  drop
+        </span>
+      </div>
+      <h1>
+        Press  enter  to  start
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GameOver game not overr 1`] = `
+<div
+  className="sc-bczRLJ cEwNYp"
+>
+  <div
+    className="sc-gsnTZi dmErLH"
+  >
+    <div
+      className="overlay-content"
+    >
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          up
+        </kbd>
+        <span>
+          piece  rotation
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          down
+        </kbd>
+        <span>
+          move  piece  down
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          left
+        </kbd>
+        <span>
+          move  piece  left
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          right
+        </kbd>
+        <span>
+          move  piece  right
+        </span>
+      </div>
+      <div
+        className="my-4 flex flex-row justify-between"
+      >
+        <kbd
+          style={
+            Object {
+              "border": "2px solid white",
+              "borderRadius": "5px",
+              "fontSize": "1rem",
+              "height": "2rem",
+              "paddingInline": "5px",
+            }
+          }
+        >
+          space
+        </kbd>
+        <span>
+          hard  drop
+        </span>
+      </div>
+      <h1>
+        Wait  for  admin  to  Start
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GameOver game over 1`] = `
+<div
+  className="sc-bczRLJ cEwNYp"
+>
+  <div
+    className="sc-gsnTZi dmErLH"
+  >
+    <img
+      alt="Game Over"
+      data-testid="gameOver-Lost-img"
+      src="GameOver.png"
+      style={
+        Object {
+          "width": "200px",
+        }
+      }
+    />
+    <div>
+      <h1>
+        You lost
+      </h1>
+      <p>
+        Press Enter to restart the game
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GameOver game start 1`] = `
+<div
+  className="sc-bczRLJ cEwNYp"
+>
+  <div
+    className="sc-gsnTZi dmErLH"
+  />
+</div>
+`;
